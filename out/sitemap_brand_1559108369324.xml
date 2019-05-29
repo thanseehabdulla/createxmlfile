@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"> 
+  <url>
+    <siteUrl>https://www.addidas.com/</siteUrl>
+    <description>Fila</description>
+    <shouldDisplay>false</shouldDisplay>
+    <responseCode>1000</responseCode>
+    <name>Fila</name>
+    <id>101</id>
+    <message>Success</message>
+    <landingPage>Fila</landingPage>
+    <lastmod>Invalid Date</lastmod>
+  </url>,<url>
+    <siteUrl>https://global.tommy.com/</siteUrl>
+    <description>Tommy Hilfiger</description>
+    <shouldDisplay>false</shouldDisplay>
+    <responseCode>1000</responseCode>
+    <name>Tommy Hilfiger</name>
+    <id>102</id>
+    <message>Success</message>
+    <landingPage>Tommy Hilfiger</landingPage>
+    <lastmod>Invalid Date</lastmod>
+  </url>,<url>
+    <siteUrl>https://s3.ap-south-1.amazonaws.com/staticpages2019/about_brand/koton/koton3.html</siteUrl>
+    <description>Koton</description>
+    <shouldDisplay>false</shouldDisplay>
+    <responseCode>1000</responseCode>
+    <name>Koton</name>
+    <id>103</id>
+    <message>Success</message>
+    <landingPage>Koton</landingPage>
+    <lastmod>Invalid Date</lastmod>
+  </url>,<url>
+    <siteUrl>https://s3.ap-south-1.amazonaws.com/staticpages2019/about_brand/lacoste/lacoste.html</siteUrl>
+    <description>Lacoste</description>
+    <shouldDisplay>false</shouldDisplay>
+    <responseCode>1000</responseCode>
+    <name>Lacoste</name>
+    <id>104</id>
+    <message>Success</message>
+    <landingPage>Lacoste</landingPage>
+    <lastmod>Invalid Date</lastmod>
+  </url>,<url>
+    <siteUrl>https://www.lipsy.com/</siteUrl>
+    <description>Lipsy</description>
+    <shouldDisplay>false</shouldDisplay>
+    <responseCode>1000</responseCode>
+    <name>Lipsy</name>
+    <id>105</id>
+    <message>Success</message>
+    <landingPage>Lipsy</landingPage>
+    <lastmod>Invalid Date</lastmod>
+  </url>,<url>
+    <siteUrl>https://s3.ap-south-1.amazonaws.com/staticpages2019/about_brand/stevemadden/stevemadden6.html</siteUrl>
+    <description>Steve Madden</description>
+    <shouldDisplay>false</shouldDisplay>
+    <responseCode>1000</responseCode>
+    <name>Steve Madden</name>
+    <id>106</id>
+    <message>Success</message>
+    <landingPage>Steve Madden</landingPage>
+    <lastmod>Invalid Date</lastmod>
+  </url>,<url>
+    <siteUrl>https://s3.ap-south-1.amazonaws.com/staticpages2019/about_brand/dinamelwani/dinamelwani.html</siteUrl>
+    <description>Dina Melwani</description>
+    <shouldDisplay>false</shouldDisplay>
+    <responseCode>1000</responseCode>
+    <name>Dina Melwani</name>
+    <id>107</id>
+    <message>Success</message>
+    <landingPage>Dina Melwani</landingPage>
+    <lastmod>Invalid Date</lastmod>
+  </url>,<url>
+    <siteUrl>https://s3.ap-south-1.amazonaws.com/staticpages2019/about_brand/pablosky/pablosky3.html</siteUrl>
+    <description>Pablosky</description>
+    <shouldDisplay>false</shouldDisplay>
+    <responseCode>1000</responseCode>
+    <name>Pablosky</name>
+    <id>108</id>
+    <message>Success</message>
+    <landingPage>Pablosky</landingPage>
+    <lastmod>Invalid Date</lastmod>
+  </url>,<url>
+    <siteUrl>https://s3.ap-south-1.amazonaws.com/staticpages2019/about_brand/pablosky/pablosky3.html</siteUrl>
+    <description>Remove</description>
+    <shouldDisplay>false</shouldDisplay>
+    <responseCode>1000</responseCode>
+    <name>Remove</name>
+    <id>110</id>
+    <message>Success</message>
+    <landingPage>Remove</landingPage>
+    <lastmod>Invalid Date</lastmod>
+  </url>,<url>
+    <siteUrl>https://s3.ap-south-1.amazonaws.com/staticpages2019/about_brand/pablosky/pablosky3.html</siteUrl>
+    <description>Mochi</description>
+    <shouldDisplay>false</shouldDisplay>
+    <responseCode>1000</responseCode>
+    <name>Mochi</name>
+    <id>111</id>
+    <message>Success</message>
+    <landingPage>Mochi</landingPage>
+    <lastmod>Invalid Date</lastmod>
+  </url>,<url>
+    <siteUrl>https://s3.ap-south-1.amazonaws.com/staticpages2019/about_brand/iconic/iconic3.html</siteUrl>
+    <description>Iconic</description>
+    <shouldDisplay>false</shouldDisplay>
+    <responseCode>1000</responseCode>
+    <name>Iconic</name>
+    <id>112</id>
+    <message>Success</message>
+    <landingPage>Iconic</landingPage>
+    <lastmod>Invalid Date</lastmod>
+  </url>,<url>
+    <siteUrl>https://s3.ap-south-1.amazonaws.com/staticpages2019/about_brand/vilebrequin/vilebrequin1.html</siteUrl>
+    <description>Vilebrequin</description>
+    <shouldDisplay>false</shouldDisplay>
+    <responseCode>1000</responseCode>
+    <name>Vilebrequin</name>
+    <id>113</id>
+    <message>Success</message>
+    <landingPage>Vilebrequin</landingPage>
+    <lastmod>Invalid Date</lastmod>
+  </url>,<url>
+    <siteUrl>https://s3.ap-south-1.amazonaws.com/staticpages2019/uat/about_brand/leecooper/leecooper1.html</siteUrl>
+    <description>Lee Cooper</description>
+    <shouldDisplay>false</shouldDisplay>
+    <responseCode>1000</responseCode>
+    <name>Lee Cooper</name>
+    <id>114</id>
+    <message>Success</message>
+    <landingPage>Lee Cooper</landingPage>
+    <lastmod>Invalid Date</lastmod>
+  </url>,<url>
+    <siteUrl>https://s3.ap-south-1.amazonaws.com/staticpages2019/uat/about_brand/kappa/kappa1.html</siteUrl>
+    <description>Kappa</description>
+    <shouldDisplay>false</shouldDisplay>
+    <responseCode>1000</responseCode>
+    <name>Kappa</name>
+    <id>115</id>
+    <message>Success</message>
+    <landingPage>Kappa</landingPage>
+    <lastmod>Invalid Date</lastmod>
+  </url>,<url>
+    <siteUrl>https://s3.ap-south-1.amazonaws.com/staticpages2019/about_brand/elle/elle.html</siteUrl>
+    <description>Elle</description>
+    <shouldDisplay>false</shouldDisplay>
+    <responseCode>1000</responseCode>
+    <name>Elle</name>
+    <id>116</id>
+    <message>Success</message>
+    <landingPage>Elle</landingPage>
+    <lastmod>Invalid Date</lastmod>
+  </url>,<url>
+    <siteUrl>https://s3.ap-south-1.amazonaws.com/staticpages2019/about_brand/lhome/lhome.html</siteUrl>
+    <description>L'Homme</description>
+    <shouldDisplay>false</shouldDisplay>
+    <responseCode>1000</responseCode>
+    <name>L'Homme</name>
+    <id>117</id>
+    <message>Success</message>
+    <landingPage>L'Homme</landingPage>
+    <lastmod>Invalid Date</lastmod>
+  </url>,<url>
+    <siteUrl>https://s3.ap-south-1.amazonaws.com/staticpages2019/about_brand/bossini/bossini.html</siteUrl>
+    <description>Bossini</description>
+    <shouldDisplay>false</shouldDisplay>
+    <responseCode>1000</responseCode>
+    <name>Bossini</name>
+    <id>118</id>
+    <message>Success</message>
+    <landingPage>Bossini</landingPage>
+    <lastmod>Invalid Date</lastmod>
+  </url>,<url>
+    <siteUrl>https://s3.ap-south-1.amazonaws.com/staticpages2019/about_brand/havaianas/havaianas.html</siteUrl>
+    <description>Havaianas</description>
+    <shouldDisplay>false</shouldDisplay>
+    <responseCode>1000</responseCode>
+    <name>Havaianas</name>
+    <id>119</id>
+    <message>Success</message>
+    <landingPage>Havaianas</landingPage>
+    <lastmod>Invalid Date</lastmod>
+  </url>,<url>
+    <siteUrl>https://s3.ap-south-1.amazonaws.com/staticpages2019/about_brand/posh/posh.html</siteUrl>
+    <description>Posh</description>
+    <shouldDisplay>false</shouldDisplay>
+    <responseCode>1000</responseCode>
+    <name>Posh</name>
+    <id>120</id>
+    <message>Success</message>
+    <landingPage>Posh</landingPage>
+    <lastmod>Invalid Date</lastmod>
+  </url>,<url>
+    <siteUrl>https://s3.ap-south-1.amazonaws.com/staticpages2019/about_brand/juniors/juniors.html</siteUrl>
+    <description>Juniors</description>
+    <shouldDisplay>false</shouldDisplay>
+    <responseCode>1000</responseCode>
+    <name>Juniors</name>
+    <id>121</id>
+    <message>Success</message>
+    <landingPage>Juniors</landingPage>
+    <lastmod>Invalid Date</lastmod>
+  </url>,<url>
+    <siteUrl>https://s3.ap-south-1.amazonaws.com/staticpages2019/about_brand/eligo/eligo.html</siteUrl>
+    <description>Eligo</description>
+    <shouldDisplay>false</shouldDisplay>
+    <responseCode>1000</responseCode>
+    <name>Eligo</name>
+    <id>122</id>
+    <message>Success</message>
+    <landingPage>Eligo</landingPage>
+    <lastmod>Invalid Date</lastmod>
+  </url>,<url>
+    <siteUrl>https://s3.ap-south-1.amazonaws.com/staticpages2019/about_brand/giggles/giggles.html</siteUrl>
+    <description>Giggles</description>
+    <shouldDisplay>false</shouldDisplay>
+    <responseCode>1000</responseCode>
+    <name>Giggles</name>
+    <id>123</id>
+    <message>Success</message>
+    <landingPage>Giggles</landingPage>
+    <lastmod>Invalid Date</lastmod>
+  </url>,<url>
+    <siteUrl>https://s3.ap-south-1.amazonaws.com/staticpages2019/about_brand/Jobedu/Jobedu.html</siteUrl>
+    <description>Jobedu</description>
+    <shouldDisplay>false</shouldDisplay>
+    <responseCode>1000</responseCode>
+    <name>Jobedu</name>
+    <id>124</id>
+    <message>Success</message>
+    <landingPage>Jobedu</landingPage>
+    <lastmod>Invalid Date</lastmod>
+  </url>,<url>
+    <siteUrl>https://s3.ap-south-1.amazonaws.com/staticpages2019/about_brand/disney/disney.html</siteUrl>
+    <description>Disney</description>
+    <shouldDisplay>false</shouldDisplay>
+    <responseCode>1000</responseCode>
+    <name>Disney</name>
+    <id>125</id>
+    <message>Success</message>
+    <landingPage>Disney</landingPage>
+    <lastmod>Invalid Date</lastmod>
+  </url>,<url>
+    <siteUrl>https://s3.ap-south-1.amazonaws.com/staticpages2019/about_brand/dc/dc.html</siteUrl>
+    <description>DC</description>
+    <shouldDisplay>false</shouldDisplay>
+    <responseCode>1000</responseCode>
+    <name>DC</name>
+    <id>126</id>
+    <message>Success</message>
+    <landingPage>DC</landingPage>
+    <lastmod>Invalid Date</lastmod>
+  </url>,<url>
+    <siteUrl>https://s3.ap-south-1.amazonaws.com/staticpages2019/about_brand/marvel/marvel.html</siteUrl>
+    <description>Marvel</description>
+    <shouldDisplay>false</shouldDisplay>
+    <responseCode>1000</responseCode>
+    <name>Marvel</name>
+    <id>127</id>
+    <message>Success</message>
+    <landingPage>Marvel</landingPage>
+    <lastmod>Invalid Date</lastmod>
+  </url>,<url>
+    <siteUrl>https://s3.ap-south-1.amazonaws.com/staticpages2019/about_brand/starwars/starwars1.html</siteUrl>
+    <description>Star Wars</description>
+    <shouldDisplay>false</shouldDisplay>
+    <responseCode>1000</responseCode>
+    <name>Star Wars</name>
+    <id>128</id>
+    <message>Success</message>
+    <landingPage>Star Wars</landingPage>
+    <lastmod>Invalid Date</lastmod>
+  </url>,<url>
+    <siteUrl>https://s3.ap-south-1.amazonaws.com/staticpages2019/about_brand/looneytunes/looneytunes.html</siteUrl>
+    <description>Looney Tunes</description>
+    <shouldDisplay>false</shouldDisplay>
+    <responseCode>1000</responseCode>
+    <name>Looney Tunes</name>
+    <id>129</id>
+    <message>Success</message>
+    <landingPage>Looney Tunes</landingPage>
+    <lastmod>Invalid Date</lastmod>
+  </url>,<url>
+    <siteUrl>https://s3.ap-south-1.amazonaws.com/staticpages2019/about_brand/babyshop/babyshop.html</siteUrl>
+    <description>Babyshop</description>
+    <shouldDisplay>false</shouldDisplay>
+    <responseCode>1000</responseCode>
+    <name>Babyshop</name>
+    <id>130</id>
+    <message>Success</message>
+    <landingPage>Babyshop</landingPage>
+    <lastmod>Invalid Date</lastmod>
+  </url>
+</urlset>
